@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/gc
+END
+DoubleCompareMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/gc/DoubleCompareMain.java
+END
+MemoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/gc/MemoryTest.java
+END
+GcPatternsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/gc/GcPatternsTest.java
+END
+OrderOfObjectsAfterGCMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/gc/OrderOfObjectsAfterGCMain.java
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/59/trunk/src/main/java/com/google/code/java/core/parser
+END
+DataLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DataLongReader.java
+END
+ParserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ParserUtils.java
+END
+LongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/LongReader.java
+END
+PrintDoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/PrintDoubleWriter.java
+END
+DataLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DataLongWriter.java
+END
+DataDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DataDoubleReader.java
+END
+LongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/LongWriter.java
+END
+DoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DoubleReader.java
+END
+ByteBufferLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferLongReader.java
+END
+DataDoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DataDoubleWriter.java
+END
+ByteBufferTextLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferTextLongReader.java
+END
+DoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DoubleWriter.java
+END
+DecimalFormatLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DecimalFormatLongReader.java
+END
+ByteBufferLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferLongWriter.java
+END
+ByteBufferDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferDoubleReader.java
+END
+ByteBufferTextLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferTextLongWriter.java
+END
+ByteBufferTextDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/59/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferTextDoubleReader.java
+END
+DecimalFormatLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DecimalFormatLongWriter.java
+END
+UnsafeLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/UnsafeLongReader.java
+END
+DecimalFormatDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DecimalFormatDoubleReader.java
+END
+ByteBufferDoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferDoubleWriter.java
+END
+UnsafeTextLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/UnsafeTextLongReader.java
+END
+ByteBufferTextDoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferTextDoubleWriter.java
+END
+UnsafeLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/UnsafeLongWriter.java
+END
+DecimalFormatDoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/DecimalFormatDoubleWriter.java
+END
+PrintLongReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/PrintLongReader.java
+END
+UnsafeDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/UnsafeDoubleReader.java
+END
+UnsafeTextLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/UnsafeTextLongWriter.java
+END
+PrintLongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/PrintLongWriter.java
+END
+UnsafeDoubleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/UnsafeDoubleWriter.java
+END
+PrintDoubleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/PrintDoubleReader.java
+END
+ByteBufferFixedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/58/trunk/src/main/java/com/google/code/java/core/parser/ByteBufferFixedWriter.java
+END

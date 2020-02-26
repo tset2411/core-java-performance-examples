@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/sizeof
+END
+GarbageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/sizeof/GarbageTest.java
+END
+MemoryUsageExamplesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/sizeof/MemoryUsageExamplesTest.java
+END
+SizeofUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/sizeof/SizeofUtilTest.java
+END
+SizeOfMapsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/sizeof/SizeOfMapsTest.java
+END

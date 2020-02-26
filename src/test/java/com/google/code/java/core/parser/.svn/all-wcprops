@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/parser
+END
+InMemoryDoublePerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/parser/InMemoryDoublePerfTest.java
+END
+ByteBufferTextDoubleWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/parser/ByteBufferTextDoubleWriterTest.java
+END
+ByteBufferFixedWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/parser/ByteBufferFixedWriterTest.java
+END
+InMemoryPerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/parser/InMemoryPerfTest.java
+END
+ParserUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/parser/ParserUtilsTest.java
+END

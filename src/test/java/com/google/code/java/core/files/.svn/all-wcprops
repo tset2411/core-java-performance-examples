@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/trunk/src/test/java/com/google/code/java/core/files
+END
+FileReadingMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/files/FileReadingMain.java
+END
+SharedMemoryWriterMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/71/trunk/src/test/java/com/google/code/java/core/files/SharedMemoryWriterMain.java
+END
+SharedMemoryReaderMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/71/trunk/src/test/java/com/google/code/java/core/files/SharedMemoryReaderMain.java
+END
+MemoryMappedWritingMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/files/MemoryMappedWritingMain.java
+END
+OpenCloseFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/files/OpenCloseFilesTest.java
+END

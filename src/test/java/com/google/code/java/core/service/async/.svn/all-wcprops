@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/service/async
+END
+AsyncConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/service/async/AsyncConsumerTest.java
+END
+AsyncSocketClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/66/trunk/src/test/java/com/google/code/java/core/service/async/AsyncSocketClientTest.java
+END

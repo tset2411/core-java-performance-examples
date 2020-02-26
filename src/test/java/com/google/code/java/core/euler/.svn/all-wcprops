@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/81/trunk/src/test/java/com/google/code/java/core/euler
+END
+LongestSequenceThreadedMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/80/trunk/src/test/java/com/google/code/java/core/euler/LongestSequenceThreadedMain.java
+END
+LongestSequenceRecursiveMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/81/trunk/src/test/java/com/google/code/java/core/euler/LongestSequenceRecursiveMain.java
+END
+LargestPalindromeMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/80/trunk/src/test/java/com/google/code/java/core/euler/LargestPalindromeMain.java
+END
+LongestSequenceRecursiveThreadedMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/81/trunk/src/test/java/com/google/code/java/core/euler/LongestSequenceRecursiveThreadedMain.java
+END
+SumEvenFibonacciMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/80/trunk/src/test/java/com/google/code/java/core/euler/SumEvenFibonacciMain.java
+END
+LongestSequenceMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/81/trunk/src/test/java/com/google/code/java/core/euler/LongestSequenceMain.java
+END

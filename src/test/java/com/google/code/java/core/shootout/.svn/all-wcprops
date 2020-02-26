@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout
+END
+mandelbrot.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/mandelbrot.java
+END
+knucleotideB.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/knucleotideB.java
+END
+Knucleotide2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/Knucleotide2.java
+END
+Knucleotide3.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/Knucleotide3.java
+END
+spectralnorm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/spectralnorm.java
+END
+nbody.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/nbody.java
+END
+meteor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/meteor.java
+END
+revcomp.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/revcomp.java
+END
+fasta.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/fasta.java
+END
+fannkuchredux.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/fannkuchredux.java
+END
+fastaredux.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/fastaredux.java
+END
+knucleotide.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/knucleotide.java
+END
+knucleotide0.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/src/test/java/com/google/code/java/core/shootout/knucleotide0.java
+END

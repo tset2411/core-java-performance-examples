@@ -1,0 +1,64 @@
+10
+
+dir
+88
+http://core-java-performance-examples.googlecode.com/svn/trunk/src/main/java/com/google/code/java/core
+http://core-java-performance-examples.googlecode.com/svn
+
+
+
+2012-04-09T14:22:24.579821Z
+88
+peter.lawrey@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b2f5bcd6-2994-beab-cc14-ceba257462bf
+
+io
+dir
+
+socket
+dir
+
+micro_optimisation
+dir
+
+primitives
+dir
+
+classloader
+dir
+
+parser
+dir
+
+bytebuffer
+dir
+
+humanreadablebinary
+dir
+
+time
+dir
+
+sizeof
+dir
+
+service
+dir
+
+javac
+dir
+

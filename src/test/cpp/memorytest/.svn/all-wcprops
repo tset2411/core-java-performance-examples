@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/62/trunk/src/test/cpp/memorytest
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/src/test/cpp/memorytest/Makefile
+END
+.dep.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/src/test/cpp/memorytest/.dep.inc
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/src/test/cpp/memorytest/main.cpp
+END
